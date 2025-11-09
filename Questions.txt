@@ -1,0 +1,4 @@
+1. "Bonjour, je voudrais commander une pizza."
+   2. "Quelles pizzas avez-vous au menu ?"
+   3. "Je suis prêt à commander."
+   4. "Salut OrderBot, je peux commander une pizza ?"
